@@ -4,20 +4,20 @@ return [
 	/**
 	 * Bot's API token
 	 */
-	'bot_token' => '---',
+	'bot_token' => '5040431760:AAHkLJcv1meMiaVwG4zR10jpBnF2Q753TPk',
 	/**
 	 * Bot's username without @ symbol
 	 */
-	'bot_username' => 'bulkdrop_bot',
+	'bot_username' => 'c2ptech_converter_bot',
 	/**
 	 * Bot's extended name/title
 	 */
-	'bot_title' => 'BULKDDROP',
+	'bot_title' => 'C2PTECH',
 	/**
 	 * Array of users which will have admin access to bot's private chat
 	 */
 	'bot_admins' =>[
-		872000561,
+		1273430546,
 		940829080
 	],
 	/**
